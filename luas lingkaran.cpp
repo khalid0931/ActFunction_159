@@ -14,4 +14,6 @@ float luaslingkaran(float a){
     return 3.14159 * a * a;
 }
 
-void 
+void output(){
+    cout << "hasilnya :" << luaslingkaran(r);
+}

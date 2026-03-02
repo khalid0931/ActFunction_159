@@ -2,14 +2,16 @@
 #include <iostream>
 using namespace std;
 
-//deklarsi variable global
-int phi, r^2;
+//deklarasi variable global 30.
+int r;
 
 //implementasi fungsi dan prosedur
 void input(){
-    cout << "masukan phi : ";
-    cin >> phi;
-    cout << "masukan r^2";
-    cin >> r^2;
+    cout << "masukan jari jari = ";
+    cin >> r;
 }
-int hitungluaslingkarang
+float luaslingkaran(float a){
+    return 3.14159 * a * a;
+}
+
+void 

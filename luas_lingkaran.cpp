@@ -21,5 +21,6 @@ void output(){
 int main(){
     input();
     output();
+    
 }
 //selesai
